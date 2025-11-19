@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sree Vidya 
-- 👀 I’m interested in Backend development and devops 
-- 🌱 I’m currently working in Today's Dental Services as a fullstack developer
+- 👀 I’m interested in Backend development
 - 💞️ I’m looking to collaborate on real time projects
 - - 📫 How to reach me: sreevidya.alluri@gmail.com
 
